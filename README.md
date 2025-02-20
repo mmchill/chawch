@@ -4,7 +4,7 @@ Finetune your agent
 
 This repository is the foundation for our project aimed at developing an advanced LLM agent that can intelligently determine when to invoke external functions. Our vision is to integrate natural language understanding with actionable tool execution, allowing the agent to perform dynamic and context-aware operations. 
 
-## Our philosophy: 
+## Our philosophy
 Invoke external tools only when the context demands, ensuring that each function call is deliberate and impactful.
 
 ## Our Vision
